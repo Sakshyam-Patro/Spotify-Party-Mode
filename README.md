@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**[🎥 Watch Demo Video](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
+**[![Demo Video](https://img.youtube.com/vi/FOzD3VdYtFc/maxresdefault.jpg)](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
 
 *Democratizing music, one vote at a time*
 
