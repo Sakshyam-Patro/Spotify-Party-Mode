@@ -1,2 +1,1 @@
-# ctrl_aux
-beta version
+Spotify Party Mode
