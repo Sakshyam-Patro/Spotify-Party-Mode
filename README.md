@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Overview
+## Project Overview
 
 Spotify Party Mode revolutionizes the DJ-audience experience by creating a seamless bridge between performers and crowds. Audiences can vote on songs, request tracks, and influence playlists in real-time, while DJs maintain ultimate creative control.
 
@@ -20,21 +20,21 @@ Spotify Party Mode revolutionizes the DJ-audience experience by creating a seaml
 
 ---
 
-## ✨ Key Features
+## Features
 
-### 🎯 For DJs
+### For DJs
 - **Session Management:** Create and control music sessions with unique codes
 - **Smart Request System:** Instant popup notifications for song approval/denial
 - **Queue Control:** Real-time queue management with vote-based ordering
 - **Spotify Integration:** Access to 100M+ songs with web playback
 
-### 🎉 For Audiences  
+### For Audiences  
 - **Live Voting:** Upvote/downvote songs to influence the queue
 - **Song Requests:** Search and request any Spotify track
 - **Zero Friction:** Browser-based participation, no app downloads
 - **Real-time Updates:** See queue changes and voting results instantly
 
-### ⚡ Technical Highlights
+### Technical Highlights
 - **Real-time Synchronization:** WebSocket-powered live updates
 - **Responsive Design:** Works on all devices and screen sizes
 - **Secure Authentication:** Spotify OAuth 2.0 integration
@@ -42,7 +42,7 @@ Spotify Party Mode revolutionizes the DJ-audience experience by creating a seaml
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -54,7 +54,7 @@ Spotify Party Mode revolutionizes the DJ-audience experience by creating a seaml
 
 ---
 
-## 🚀 Quick Start
+## Getting Started
 
 ### Prerequisites
 - Node.js 16+
@@ -79,7 +79,7 @@ npm start
 
 ### Environment Setup
 
-#### 🔧 Spotify App Configuration
+#### Spotify App Configuration
 
 **Important:** Spotify has new redirect URI requirements (April 2025). Follow these steps:
 
@@ -133,14 +133,14 @@ graph LR
     E --> F[Live Queue Updates]
 ```
 
-1. **🎧 DJ Setup:** Connect Spotify account and create session
-2. **📱 Audience Join:** Enter session code in any browser
-3. **🗳️ Democratic Voting:** Real-time voting determines song priority
-4. **🎵 Smart Requests:** Popup notifications for DJ approval
-5. **🎶 Live Playback:** DJ plays crowd-approved songs
+1. **DJ Setup:** Connect Spotify account and create session
+2. **Audience Join:** Enter session code in any browser
+3. **Democratic Voting:** Real-time voting determines song priority
+4. **Smart Requests:** Popup notifications for DJ approval
+5. **Live Playback:** DJ plays crowd-approved songs
 
 ---
-## 📂 Project Structure
+## Project Structure
 
 ```
 spotify-party-mode/
@@ -154,7 +154,7 @@ spotify-party-mode/
 
 ---
 
-## 🎯 Live Demo Features
+## Live Demo Features
 
 ### DJ Dashboard
 - Session creation and management
@@ -174,7 +174,6 @@ spotify-party-mode/
 
 **[🎬 Watch the Full Demo](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
 
-See Spotify Party Mode in action - from session creation to live voting and playback!
 
 ---
 
