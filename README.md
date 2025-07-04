@@ -96,7 +96,7 @@ SPOTIFY_REDIRECT_URI=http://127.0.0.1:3001/auth/spotify/callback
 PORT=3001
 ```
 
-#### 🌐 Multi-Device Testing & Demos
+#### Multi-Device Testing & Demos
 
 For sharing with others or testing across devices:
 
@@ -115,14 +115,14 @@ SPOTIFY_REDIRECT_URI=https://your-ngrok-url.ngrok.app/auth/spotify/callback
 # 2. Your Spotify app settings in the developer dashboard
 ```
 
-**✅ Spotify Requirements:**
-- ✅ Use `127.0.0.1` instead of `localhost` for local development
-- ✅ Use HTTPS for production/sharing (ngrok provides this)
-- ✅ Exact URI match between .env and Spotify dashboard
+**Spotify Requirements:**
+- Use `127.0.0.1` instead of `localhost` for local development
+- Use HTTPS for production/sharing (ngrok provides this)
+- Exact URI match between .env and Spotify dashboard
 
 ---
 
-## 🎮 How It Works
+## How It Works
 
 ```mermaid
 graph LR
@@ -133,15 +133,15 @@ graph LR
     E --> F[Live Queue Updates]
 ```
 
-1. **🎧 DJ Setup:** Connect Spotify account and create session
-2. **📱 Audience Join:** Enter session code in any browser
-3. **🗳️ Democratic Voting:** Real-time voting determines song priority
-4. **🎵 Smart Requests:** Popup notifications for DJ approval
-5. **🎶 Live Playback:** DJ plays crowd-approved songs
+1. ** DJ Setup:** Connect Spotify account and create session
+2. ** Audience Join:** Enter session code in any browser
+3. ** Democratic Voting:** Real-time voting determines song priority
+4. ** Smart Requests:** Popup notifications for DJ approval
+5. ** Live Playback:** DJ plays crowd-approved songs
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 spotify-party-mode/
@@ -155,7 +155,7 @@ spotify-party-mode/
 
 ---
 
-## 🎯 Live Demo Features
+## Live Demo Features
 
 ### DJ Dashboard
 - Session creation and management
@@ -171,15 +171,15 @@ spotify-party-mode/
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
-**[🎬 Watch the Full Demo](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
+**[ Watch the Full Demo](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
 
 See Spotify Party Mode in action - from session creation to live voting and playback!
 
 ---
 
-## 🛡️ Requirements
+## Requirements
 
 - **For DJs:** Spotify Premium account (required for playback)
 - **For Audiences:** Any device with internet browser
