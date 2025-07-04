@@ -189,7 +189,7 @@ See Spotify Party Mode in action - from session creation to live voting and play
 
 ## Contributors
 
-- **Sakshyam Patro** (saksyampatro1103@gmail.com)
+- **Sakshyam Patro** (sakshyampatro1103@gmail.com)
 - **Aaron Alpern**
 - **Prachi Singh**
 - **Allison Qiu**
