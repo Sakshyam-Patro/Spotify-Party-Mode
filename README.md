@@ -140,26 +140,6 @@ graph LR
 5. **🎶 Live Playback:** DJ plays crowd-approved songs
 
 ---
-
-## 🏆 Why This Won the Hackathon
-
-### 💡 **Problem Solved**
-- Eliminates the communication gap between DJs and audiences
-- Reduces interruptions and "song request" chaos
-- Creates engaging, interactive music experiences
-
-### 🎯 **Market Impact**
-- **Immediate Deployment:** Ready for real-world venue implementation
-- **Universal Appeal:** Works for any music event or gathering
-- **Scalable Solution:** Can handle multiple concurrent sessions
-
-### 💻 **Technical Excellence**
-- **Real-time Architecture:** Sub-second synchronization across devices
-- **User Experience:** Intuitive design requiring zero learning curve
-- **Robust Integration:** Seamless Spotify API implementation
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -192,7 +172,7 @@ spotify-party-mode/
 
 ## 🎥 Demo Video
 
-**[🎬 Watch the Full Demo](YOUR_YOUTUBE_LINK_HERE)**
+**[🎬 Watch the Full Demo](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
 
 See Spotify Party Mode in action - from session creation to live voting and playback!
 
@@ -206,40 +186,16 @@ See Spotify Party Mode in action - from session creation to live voting and play
 
 ---
 
-## 🚀 Future Enhancements
 
-- [ ] Mobile app versions (iOS/Android)
-- [ ] Advanced analytics dashboard
-- [ ] Playlist export functionality
-- [ ] Integration with other music platforms
-- [ ] Enhanced DJ tools and effects
+Contributors
 
+Sakshyam Patro (saksyampatro1103@gmail.com)
+Aaron Alpern 
+Prachi Singh 
+Allison Qiu 
+Anjali Mysore 
+Victor Barich 
 ---
 
-## 📞 Contact & Attribution
-
-**🧑‍💻 Developer:** Sakshyam Patro  
-**🏆 Achievement:** UIUC Research Park 2025 Summer Hackathon Winner  
-**📧 Contact:** [Your Email]  
-**🔗 LinkedIn:** [Your LinkedIn]  
-**💻 GitHub:** [@Sakshyam-Patro](https://github.com/Sakshyam-Patro)
-
----
-
-<div align="center">
-
-**🎵 Built with ❤️ for music lovers everywhere 🎵**
-
-⭐ *If you found this project interesting, please star the repository!* ⭐
-
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 *Built during the UIUC Research Park 2025 Summer Hackathon*
