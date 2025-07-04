@@ -197,13 +197,3 @@ See Spotify Party Mode in action - from session creation to live voting and play
 - **Victor Barich**
 
 ---
-
-<div align="center">
-
-**🎵 Built with ❤️ for music lovers everywhere 🎵**
-
-*Built during the UIUC Research Park 2025 Summer Hackathon*
-
-⭐ *If you found this project interesting, please star the repository!* ⭐
-
-</div>
