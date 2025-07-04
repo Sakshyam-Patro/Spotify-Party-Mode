@@ -1,6 +1,6 @@
-**Spotify Party Mode**
+# 🎵 Spotify Party Mode
 
-**Real-time collaborative music voting platform** - **UIUC Research Park 2025 Summer Hackathon Winner - 1st Place** 
+**Real-time collaborative music voting platform** - **UIUC Research Park 2025 Summer Hackathon Winner - 1st Place** 🏆
 
 <div align="center">
 
@@ -79,7 +79,7 @@ npm start
 
 ### Environment Setup
 
-#### Spotify App Configuration
+#### 🔧 Spotify App Configuration
 
 **Important:** Spotify has new redirect URI requirements (April 2025). Follow these steps:
 
@@ -133,14 +133,15 @@ graph LR
     E --> F[Live Queue Updates]
 ```
 
-1. **DJ Setup:** Connect Spotify account and create session
-2. **Audience Join:** Enter session code in any browser
-3. **Democratic Voting:** Real-time voting determines song priority
-4. **Smart Requests:** Popup notifications for DJ approval
-5. **Live Playback:** DJ plays crowd-approved songs
+1. **🎧 DJ Setup:** Connect Spotify account and create session
+2. **📱 Audience Join:** Enter session code in any browser
+3. **🗳️ Democratic Voting:** Real-time voting determines song priority
+4. **🎵 Smart Requests:** Popup notifications for DJ approval
+5. **🎶 Live Playback:** DJ plays crowd-approved songs
 
 ---
-## Project Structure
+
+## 📂 Project Structure
 
 ```
 spotify-party-mode/
@@ -154,7 +155,7 @@ spotify-party-mode/
 
 ---
 
-## Live Demo Features
+## 🎯 Live Demo Features
 
 ### DJ Dashboard
 - Session creation and management
@@ -174,6 +175,7 @@ spotify-party-mode/
 
 **[🎬 Watch the Full Demo](https://www.youtube.com/watch?v=FOzD3VdYtFc)**
 
+See Spotify Party Mode in action - from session creation to live voting and playback!
 
 ---
 
@@ -185,16 +187,23 @@ spotify-party-mode/
 
 ---
 
+## Contributors
 
-Contributors
+- **Sakshyam Patro** (saksyampatro1103@gmail.com)
+- **Aaron Alpern**
+- **Prachi Singh**
+- **Allison Qiu**
+- **Anjali Mysore**
+- **Victor Barich**
 
-Sakshyam Patro (saksyampatro1103@gmail.com)
-Aaron Alpern 
-Prachi Singh 
-Allison Qiu 
-Anjali Mysore 
-Victor Barich 
 ---
 
+<div align="center">
+
+**🎵 Built with ❤️ for music lovers everywhere 🎵**
 
 *Built during the UIUC Research Park 2025 Summer Hackathon*
+
+⭐ *If you found this project interesting, please star the repository!* ⭐
+
+</div>
