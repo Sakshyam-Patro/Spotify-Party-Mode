@@ -193,7 +193,7 @@ See Spotify Party Mode in action - from session creation to live voting and play
 - **Aaron Alpern** (aaron.alpern@outlook.com)
 - **Minjae Jang** (csjae21@gmail.com)
 - **Prachi Singh** (prachisingh201204@gmail.com)
-- **Allison Qiu**
+- **Allison Qiu** (allison.r.qiu@gmail.com)
 - **Anjali Mysore** (Anjalimysore9@gmail.com)
 - **Victor Barich** (Victor.m.barich@gmail.com)
 
