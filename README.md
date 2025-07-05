@@ -133,11 +133,11 @@ graph LR
     E --> F[Live Queue Updates]
 ```
 
-1. ** DJ Setup:** Connect Spotify account and create session
-2. ** Audience Join:** Enter session code in any browser
-3. ** Democratic Voting:** Real-time voting determines song priority
-4. ** Smart Requests:** Popup notifications for DJ approval
-5. ** Live Playback:** DJ plays crowd-approved songs
+1. **DJ Setup:** Connect Spotify account and create session
+2. **Audience Join:** Enter session code in any browser
+3. **Democratic Voting:** Real-time voting determines song priority
+4. **Smart Requests:** Popup notifications for DJ approval
+5. **Live Playback:** DJ plays crowd-approved songs
 
 ---
 
