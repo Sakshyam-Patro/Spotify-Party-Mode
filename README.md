@@ -79,7 +79,7 @@ npm start
 
 ### Environment Setup
 
-#### 🔧 Spotify App Configuration
+#### Spotify App Configuration
 
 **Important:** Spotify has new redirect URI requirements (April 2025). Follow these steps:
 
