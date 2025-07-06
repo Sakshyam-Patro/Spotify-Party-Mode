@@ -79,7 +79,7 @@ npm start
 
 ### Environment Setup
 
-#### 🔧 Spotify App Configuration
+#### Spotify App Configuration
 
 **Important:** Spotify has new redirect URI requirements (April 2025). Follow these steps:
 
@@ -133,11 +133,11 @@ graph LR
     E --> F[Live Queue Updates]
 ```
 
-1. ** DJ Setup:** Connect Spotify account and create session
-2. ** Audience Join:** Enter session code in any browser
-3. ** Democratic Voting:** Real-time voting determines song priority
-4. ** Smart Requests:** Popup notifications for DJ approval
-5. ** Live Playback:** DJ plays crowd-approved songs
+1. **DJ Setup:** Connect Spotify account and create session
+2. **Audience Join:** Enter session code in any browser
+3. **Democratic Voting:** Real-time voting determines song priority
+4. **Smart Requests:** Popup notifications for DJ approval
+5. **Live Playback:** DJ plays crowd-approved songs
 
 ---
 
@@ -187,13 +187,14 @@ See Spotify Party Mode in action - from session creation to live voting and play
 
 ---
 
-## Contributors
+## Team
 
 - **Sakshyam Patro** (sakshyampatro1103@gmail.com)
-- **Aaron Alpern**
-- **Prachi Singh**
-- **Allison Qiu**
-- **Anjali Mysore**
-- **Victor Barich**
+- **Aaron Alpern** (aaron.alpern@outlook.com)
+- **Minjae Jang** (csjae21@gmail.com)
+- **Prachi Singh** (prachisingh201204@gmail.com)
+- **Allison Qiu** (allison.r.qiu@gmail.com)
+- **Anjali Mysore** (Anjalimysore9@gmail.com)
+- **Victor Barich** (Victor.m.barich@gmail.com)
 
 ---
