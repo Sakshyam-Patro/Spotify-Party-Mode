@@ -1,4 +1,4 @@
-# 🎵 Spotify Party Mode
+# 🎵 Spotify Party Mode 
 
 **Real-time collaborative music voting platform** - **UIUC Research Park 2025 Summer Hackathon Winner - 1st Place** 🏆
 
